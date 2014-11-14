@@ -16,4 +16,10 @@ feature 'Auth' do
     expect(page).to have_content("user@example.com")
   end
 
+
+
+
+
+
+
 end
